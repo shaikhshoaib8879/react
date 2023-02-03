@@ -1,10 +1,11 @@
+
 import { createRoot } from "react-dom/client";
 import SearchParams from "./SearchParams";
 
 const App = () => {
   return (
     <div>
-      <h1>ADOPT ME!</h1>
+      <h1>Adopt Me!</h1>
       <SearchParams />
     </div>
   );
